@@ -1,0 +1,5 @@
+Context: I am starting a new fitness journey. Part of fitness is putting the right food into your body. Abs are built in the kitchen, not the gym. My Personal Trainer has recommended specific goals for 3 macro-nutrients, as well as total calories. Specifically, these macros are protein, fats, carbs. 
+
+Problem: The goals are high. Eating enough to build muscle can be expensive. Another complicating factor is that each food has different ratios of protein, carbs, fats, and calories. To hit each goal, you need to know which foods provide which macros so you can balance them appropriately. 
+
+What the report offers: This report helps the user understand how each food affects their diet. It tracks the ratios of protien to cost, calories, and other macros. It lets the user select serving amounts to see the actual or opportunity cost eating a specified number of servings of any food. The end result is a user who is better equipped to make decisions concerning their diet. 
